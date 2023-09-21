@@ -1,4 +1,4 @@
-# Chatwoot template
+# Chatwoot template v3.1.0
 
 This template deploys a self-hosted version of [Chatwoot](https://www.chatwoot.com/). Internally it uses a PostgreSQL database and Resdis to store the data.
 
